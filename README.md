@@ -1,6 +1,6 @@
 [![codecov](https://codecov.io/gh/leapdao/leap-node/branch/master/graph/badge.svg)](https://codecov.io/gh/leapdao/leap-node)
 
-# Leap DAO validation node
+# Motion Protocol validation node
 
 https://docs.leapdao.org/
 
